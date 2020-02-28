@@ -1,4 +1,4 @@
-# ManzanaGroupTestTask
+# MGroupTestTask
 
 1. Реализовать функцию, которая определяет матожидание
 
